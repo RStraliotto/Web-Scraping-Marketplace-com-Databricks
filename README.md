@@ -165,6 +165,8 @@ Certifique-se de ter uma conta no [Databricks](https://databricks.com) e um work
     # Exibe o DataFrame como uma tabela no notebook
     display(pd.DataFrame(pdf))
     ```
+    ![image](https://github.com/user-attachments/assets/687b36d9-9d87-4b0d-997d-d7ce99844188)
+
 
 3. **Executando o Código**: Execute as células do notebook em ordem para coletar os dados e visualizá-los.
 
@@ -180,3 +182,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 Para mais informações ou suporte, entre em contato com [romulostraliotto@gmail.com](mailto:seu-email@exemplo.com).
 
+##Nota
+Este projeto é para fins educacionais e demonstra técnicas básicas de scraping e processamento de dados. Verifique a conformidade com os termos de serviço do site ao realizar scraping.
